@@ -59,5 +59,7 @@ Run it from the folder where you want the data kept. `habits.txt` and `reflectio
 - `flowchart vertikal.png`: flowchart of the add-habit process
 
 ## Group 8
+1. Hudzaifah
+2. M Abiyakhsa T 
+3. Christian Kayden K
 
-A, B, C
